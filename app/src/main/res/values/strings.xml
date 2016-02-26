@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_visit_info">VisitInfo</string>
+    <string name="title_activity_dining_info_page">DiningInfoPage</string>
+    <string name="title_activity_dining_facility_info">DiningFacilityInfo</string>
+    <string name="title_activity_housing_info">HousingInfo</string>
+    <string name="title_activity_housing_facility_info">HousingFacilityInfo</string>
+    <string name="title_activity_building_list_view">BuildingListView</string>
+    <string name="title_activity_building_info">BuildingInfo</string>
+    <string name="title_activity_scavenger_hunt">ScavengerHunt</string>
+    <string name="title_activity_answer_nfc">answerNFC</string>
+</resources>
